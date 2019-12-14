@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="romipi_astar" type="romipi_astar_node.py" name="romipi_core" output="screen">
+  </node>
+</launch>
